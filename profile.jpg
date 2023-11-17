@@ -1,0 +1,6 @@
+<header>
+        <h1>maithilimahalle</h1>
+        <p>Web Developer</p>
+        <!-- Personal Photo -->
+        <img src="file:///Users/maithilimahalle/Documents/image.jpg" alt="Maithili - Photo" style="width: 100%; max-width: 300px; margin-top: 20px;">
+    </header>
